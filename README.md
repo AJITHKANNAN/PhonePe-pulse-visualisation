@@ -1,3 +1,5 @@
+Hi Guys,
+
 This project involves processing and visualizing data from the Phonepe Pulse GitHub repository. This is a multi-step project that involves data extraction, transformation, storage, and visualization. 
 I'll provide you with a high-level overview of the steps you need to take to accomplish each of these tasks:
 
@@ -27,9 +29,16 @@ Create at least 10 different dropdown options that users can select to dynamical
 **Additional Considerations:**
 
 *Ensure proper error handling at each step of the process.
+
 *Regularly update the data by scheduling periodic repository updates and database refreshes.
+
 *Optimize database queries for performance, especially if dealing with a large dataset.
+
 *Pay attention to user experience design to make the dashboard intuitive and visually appealing.
+
 *Remember that each step of this process requires coding and familiarity with relevant libraries and tools. 
 
+
+
 **Good luck, Guys!**
+
