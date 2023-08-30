@@ -1,0 +1,7 @@
+pandas 
+mysql.connector 
+streamlit 
+plotly.express
+os
+json
+plotly.graph_objects
